@@ -28,3 +28,4 @@ This repository contains an interactive Power BI dashboard for analyzing road ac
 ## 📷 Screenshots
 
 ### 🧭 Dashboard Overview
+![Dashboard](dashboard_overview.png)
